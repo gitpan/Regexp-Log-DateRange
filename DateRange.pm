@@ -4,7 +4,7 @@ package Regexp::Log::DateRange;
 use strict;
 use vars qw($VERSION %templates);
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 %templates = ( 
 	syslog => [

@@ -3,4 +3,5 @@ Makefile.PL
 DateRange.pm
 test.pl
 README
+bin/greplog
 META.yml                                 Module meta-data (added by MakeMaker)
